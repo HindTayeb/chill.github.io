@@ -1,4 +1,4 @@
-under construction pixel-art web page displaying music playlist using html, css, and javascript. it's my first time creating a website from scratch and only code. this website is only for entertaining.
+pixel-art web page displaying music playlist using html, css, and javascript. it's my first time creating a website from scratch and only code. this website is only for entertaining.
 
 the music list:
 
