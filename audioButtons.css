@@ -1,0 +1,41 @@
+#pbutton {
+height: 54px; 
+width:44px;
+/*top:1px;*/
+margin-top:-652px;
+margin-left:847px; 
+position:absolute;
+}
+
+#nbutton {
+height: 54px; 
+width:44px;
+margin-top:-652px;
+margin-left:896px; 
+position:absolute;
+}
+
+#prebutton {
+height: 54px; 
+width:44px;
+margin-top:-652px;
+margin-left:798px; 
+position:absolute;
+}
+	
+.play {
+background: url('img/play.png') no-repeat; 
+}
+
+.pause {
+background: url('img/pause.png') no-repeat;
+}
+
+.next {
+background: url('img/next.png') no-repeat;
+}
+
+.pre {
+background: url('img/pre.png') no-repeat;
+}
+
