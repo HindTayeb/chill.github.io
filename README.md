@@ -12,7 +12,7 @@ potsu - Im closing my eyes
 eery - off-white
 you can check music artists websites here:
 
-erry
+eery 
 bandcamp https://eery.bandcamp.com 
 soundcloud https://soundcloud.com/eery
 
