@@ -3,14 +3,14 @@ it's my first time creating a website from scratch and only code. this website i
 
 The music list used:
 
-eery - her
-bunko stew - hide the pain
-elijah - sad and bonjou
-saib. - in your arms
-nohidea - thirteen
-atlas - sand
-potsu - Im closing my eyes
-eery - off-white
+eery - her<br>
+bunko stew - hide the pain<br>
+elijah - sad and bonjou<br>
+saib. - in your arms<br>
+nohidea - thirteen<br>
+atlas - sand<br>
+potsu - Im closing my eyes<br>
+eery - off-white<br>
 
 you can check support music artists here: 
 
