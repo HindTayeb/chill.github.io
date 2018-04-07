@@ -14,12 +14,12 @@ eery - off-white
 
 you can check support music artists here: 
 
-eery
-bandcamp https://eery.bandcamp.com 
+eery <br>
+bandcamp https://eery.bandcamp.com <br>
 soundcloud https://soundcloud.com/eery
 
-bunko stew
-bandcamp https://bunkostew.bandcamp.com 
+bunko stew <br>
+bandcamp https://bunkostew.bandcamp.com <br>
 soundcloud https://soundcloud.com/bunkostew
 
 elijah
