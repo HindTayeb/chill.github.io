@@ -5,7 +5,6 @@
 	<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
  <link rel="stylesheet" href="pageDesign.css">
- <!-- <link rel="stylesheet" href="normalize.css"> -->
  <link rel="stylesheet" href="audioButtons.css">
 </head>
 <body style="background-color:#3E4174;">
@@ -51,10 +50,8 @@
 			
 		</div>
 		<div id="curtain"></div>>
-		<!--<img src="img/curtain.png" style="margin-left:945px;position:relative;margin-top:-7px;" onContextMenu="return false">-->
 		<div id="lamp"></div> 
 	    <div id="lamp-light" style="display:none;"></div> 
-		<!--<div><button id="lamp-button"></button></div>-->
 		<div class="table-surface"></div>
 		<div class="table-surface" style="width:1783px;bottom: 607px;"></div>
 		<div class="table-surface" style="width:1810px;bottom: 577px;"></div>
@@ -64,11 +61,7 @@
 		<div id="radio-shadow"></div>
 		<div id="window-shadow"></div>
 		<div id="picture-frame"></div>
-		
 		<div id="cassette-box"></div>
-			<!--<img src="img/cassette-box.png" style="position:relative;margin-left:-660px;top:-1000px;display: block;" onContextMenu="return false" />
-			<img id="cassette" src="img/heart.gif" style="position:relative;top:-1355px;margin-left:-85px;display: block;" />-->
-		
 		<div id="table-drawer">
 		<div style="margin-left:530px;">
 			<div class="drawer-details" style="margin-top:50px;width:1250px;margin-left:70px"></div>
@@ -105,9 +98,8 @@
 		<div><button id="pbutton" class="play" onclick="playAudio();"></button></div>
 		<div><button id="nbutton" class="next" onclick="playNext();"></button></div>
 		<div><button id="prebutton" class="pre" onclick="playPrevious();"></button></div> 
-		<!-- <div id="play-text"></div> -->
 		<div><p id="pt">play &#9658 </p></div>
-		<marquee scrollamount="38" behavior="scroll" direction="left" onmouseover="this.setAttribute('scrollamount',0);" onmouseout="this.setAttribute('scrollamount',38);"><p id="artist-name"></p></marquee>
+		<marquee scrollamount="38" behavior="scroll" direction="left" onmouseover="this.setAttribute('scrollamount',0);" onmouseout="this.setAttribute('scrollamount',38);"><a href="" target="_blank" style="text-decoration:none;" id="artist_link"><p id="artist-name"></p></a></marquee>
 		<div style="position:fixed;margin-left:1060px;margin-top:-1300px;">
 			<img src="img/clock/dg8.png" name="hr1">
 			<img src="img/clock/dg8.png" name="hr2">
