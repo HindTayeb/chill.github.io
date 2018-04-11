@@ -1,8 +1,11 @@
 pixel-art web page displaying music playlist using html, css, and javascript. 
 it's my first time creating a website from scratch and only code. for self-education, and in sake of doing something fun!
 
-The music list used:
+the page is built with mac and works better with mac and desktop browsers for meantime. 
+refinements will be done.
 
+
+The music list used:
 eery - her<br>
 bunko stew - hide the pain<br>
 elijah - sad and bonjou<br>
