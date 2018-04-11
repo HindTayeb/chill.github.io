@@ -1,5 +1,5 @@
 pixel-art web page displaying music playlist using html, css, and javascript. 
-it's my first time creating a website from scratch and only code. this website is only for entertaining.
+it's my first time creating a website from scratch and only code. for self-education, and in sake of doing something fun!
 
 The music list used:
 
