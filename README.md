@@ -1,8 +1,6 @@
-pixel-art web page displaying music playlist using html, css, and javascript. 
-it's my first time creating a website from scratch and only code. for self-education, and in sake of doing something fun!
+Pixel-art web page displaying music playlist using HTML, CSS, and javascript. It's my first time creating a website from scratch and only code. For self-education and for the sake of doing something fun!
 
-note: currently the page works fine (not great) for mac users but not very well for windows/linux users.therefore, refinements will be done.
-
+Note: currently, the page works fine (not great) for Mac users but not very well for Windows/Linux users. Therefore, refinements will be done.
 
 The music list used:
 eery - her<br>
